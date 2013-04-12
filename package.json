@@ -1,0 +1,13 @@
+{
+  "name": "ATVBrowser",
+  "version": "1.0.0",
+  "main": "atv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "0.7.2",
+  },
+  "author": "Plex ATV3 Team",
+  "license": ""
+}
